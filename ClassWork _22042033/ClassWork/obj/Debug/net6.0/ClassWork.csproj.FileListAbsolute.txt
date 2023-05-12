@@ -1,0 +1,30 @@
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.exe
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.dll
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.AssemblyReference.cache
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.dll
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+C:\Users\Блюпуп\source\repos\ClassWork\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\bin\Debug\net6.0\ClassWork.exe
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\bin\Debug\net6.0\ClassWork.dll
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.csproj.AssemblyReference.cache
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.dll
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+C:\Users\cryst\OneDrive\Рабочий стол\ClassWork _22042033\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
